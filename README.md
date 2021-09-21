@@ -1,4 +1,4 @@
-# REVENDRETHBUGTRACKER
+# Shadowlands BUGTRACKER
 Bugtracker for Revendreth 
 
 Reporting issues
